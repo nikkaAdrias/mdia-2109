@@ -1,6 +1,6 @@
-# Welcome to my 2109 repo! 
+# Welcome to my 2109 repo!
 
-This is me testing out a single commit! When I `commit changes` on this file, it will save a snapshot that I can revert to at any time. 
+This is me testing out a single commit! When I `commit changes` on this file, it will save a snapshot that I can revert to at any time.
 ^-.-^
 meooooowwww
 
@@ -15,3 +15,15 @@ meooooowwww
 - [ ] Meal prepping in my kitchen
 - [ ] Meeting Dave Faber and buying his tv console on FB Marketplace
 - [ ] Eating taco bell
+
+## Here is some swagalicious ascii art!
+
+This is Alberto. He is a stegosaurus (I think)
+
+```__
+              / _)
+     _.----._/ /
+    /         /
+ __/ (  | (  |
+/__.-'|_|--|_| rawr
+```
