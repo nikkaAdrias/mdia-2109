@@ -6,3 +6,10 @@ Meow. ^-.-^
 - [ ] I
 - [ ] Love
 - [ ] Lists
+
+## What was the best part of this weekend?
+
+- [ ] Moving
+- [ ] My apartment view
+- [ ] Meal prepping in my kitchen
+- [ ] Meeting Dave Faber and buying his tv console on FB Marketplace
